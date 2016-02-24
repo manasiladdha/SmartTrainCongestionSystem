@@ -14,8 +14,6 @@ Specifications:
 3)Ecosystem architecture and Singleton Design Pattern
 3)Application requires login credentials to run and operate different roles as provided below.
 
-
-Roles involed
 Role				            Username	Password
 
 T-Authority Supervisor
