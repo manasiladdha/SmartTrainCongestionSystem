@@ -16,11 +16,10 @@ Specifications:
 
 
 Roles involed
-Role				            Username	Password
+Role				            Username	  Password
 
-T-Authority Supervisor
-T-Authority Analyst
-T-Security Supervisor
-T-Security Officier
-T-Security Admin
-T-Rider
+T-Authority Supervisor   tadmin     tadmin
+T-Authority Analyst      analyst    analyst   
+T-Security Supervisor    tpolice    tpolice
+T-Security Officier      tofficier  tofficier   
+T-Rider                  rider      rider
